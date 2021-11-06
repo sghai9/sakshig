@@ -18,9 +18,10 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
+- Digital Technologies
+- Gender & Inclusion
+- Social Norms
 - Sample Diversity 
-- Digital technologies
-- Inclusion
 
 # Education to show in About widget
 education:
